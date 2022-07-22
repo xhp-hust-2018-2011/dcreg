@@ -1,5 +1,5 @@
 # Discrete-Constrained Regression for Local Counting Models (dcreg)
-This repository contains the original pytorch code for our paper "Discrete-Constrained Regression for Local Counting Models" [[arxiv]](https://arxiv.org/abs/2207.09865) in ECCV 2022.
+This repository contains the original pytorch code for our paper "[Discrete-Constrained Regression for Local Counting Models](https://arxiv.org/abs/2207.09865)" in ECCV 2022.
 
 ## Prepare environment
 ```
